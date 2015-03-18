@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/spring3.1.3"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/MySQLDriver"/>
+	<classpathentry kind="lib" path="D:/java/通用Jar/commons-collections.jar"/>
+	<classpathentry kind="lib" path="D:/java/通用Jar/commons-dbcp.jar"/>
+	<classpathentry kind="lib" path="D:/java/通用Jar/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/java/通用Jar/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/java/通用Jar/commons-pool.jar"/>
+	<classpathentry kind="lib" path="D:/java/通用Jar/mybatis-3.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/java/通用Jar/mybatis-spring-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/java/通用Jar/standard.jar"/>
+	<classpathentry kind="lib" path="D:/java/commonsJar/commons-lang-2.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
